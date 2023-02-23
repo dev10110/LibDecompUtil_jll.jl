@@ -1,0 +1,16 @@
+[[DecompUtil]]
+arch = "aarch64"
+git-tree-sha1 = "ceb27a106a60de6a7032c0e2b5e646c89c5471a4"
+os = "macos"
+
+    [[DecompUtil.download]]
+    sha256 = "71595f51c8749b14dd900d565785a2f3de08eb2e359171b88931e11d2c078d70"
+    url = "https://github.com/dev10110/LibDecompUtil_jll.jl/releases/download/DecompUtil-v0.1.0+0/DecompUtil.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[DecompUtil]]
+arch = "x86_64"
+git-tree-sha1 = "b4803d13b5f8958de6feb745a5403bb0a1a52279"
+os = "macos"
+
+    [[DecompUtil.download]]
+    sha256 = "18f7716299b5f670357accf5cc97718788b267a1af31c1f68fe10ad405073b22"
+    url = "https://github.com/dev10110/LibDecompUtil_jll.jl/releases/download/DecompUtil-v0.1.0+0/DecompUtil.v0.1.0.x86_64-apple-darwin.tar.gz"
